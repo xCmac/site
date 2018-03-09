@@ -1,0 +1,4 @@
+baseURL = "http://3ringcode.com"
+languageCode = "en-us"
+title = "My New Hugo Site"
+theme = "after-dark"
